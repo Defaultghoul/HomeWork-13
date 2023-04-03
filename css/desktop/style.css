@@ -1,0 +1,11 @@
+@media (min-width: 1000px) {
+		.cards {
+			flex-direction: row;
+			height: 128px;
+			width: 1146px;
+		}
+
+		.categories-title {
+			text-align: left;
+		}
+}
